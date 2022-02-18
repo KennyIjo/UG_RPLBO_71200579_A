@@ -1,0 +1,10 @@
+public class Tabungan {
+
+    public static void tabungan(String args[]){
+
+        Scanner inp = new Scanner(System.in);
+        System.out.println("Masukkan Pilihan: ");
+        int pilihan = inp.nextln();
+    }
+
+        }
